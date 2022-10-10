@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2bLAJmwzxLLpCBML6ChL3ORQLrZpKOTspAUVZl/rQeHiUBD+u5/CXvhxxEJbzA+nW4ISi8VPfTjWObj5Hkwzqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ronya\\Programing\\beckend\\C#\\PathFinderApi\\PathFinderApi\\PathFinderApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ronya\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ronya\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ronya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ronya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ronya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
